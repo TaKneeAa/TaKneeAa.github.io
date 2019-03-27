@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Tanya Chowdhury
 
-You can use the [editor on GitHub](https://github.com/TaKneeAa/TaKneeAa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Software Engineer at Myntra.com . I graduated with Honours in Computer Science from IIIT-Delhi in May 2018. During my undergrad, I was advised by Dr Tanmoy Chakraborty. In the summer of 2017, I was software Engineering Intern in the Enterprise team of Google Bengaluru. My research interests are Natural Language Processing and Information Retrieval.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A long time ago, I performed an Arangetram in Bharatnatyam Dance and cleared Madhyamik in Hindustani Music.
+
 
 ### Markdown
 
