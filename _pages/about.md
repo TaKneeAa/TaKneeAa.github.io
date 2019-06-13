@@ -50,4 +50,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
 
- I graduated with Honours in Computer Science from IIIT-Delhi in May 2018. At IIIT-Delhi, I was advised by Dr Tanmoy Chakraborty. My research interests include Natural Language Processing and Information Retrieval and I'm actively seeking Ph.D. positions for Fall'19.
+ I am a Software Engineer with Myntra Designs, where I am a part of the Text Search team. I'm also an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work on building Abstractive Summarization systems. I graduated with Honours in Computer Science from IIIT-Delhi in May 2018 where I was advised by Dr Tanmoy Chakraborty. My research interests include Natural Language Processing and Information Retrieval.
+
+ I'm an Indian Classical Dance enthusiast. A long time ago, I performed an Arangetram in Bharatnatyam Dance and cleared Madhyamik in Hindustani Sangeet. I'm presently trying to learn Kathak! 
+
