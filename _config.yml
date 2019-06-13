@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tanya"
+  name             : "Tanya Chowdhury"
   avatar           : "profile.png"
   bio              : "NLP/IR Enthusiast"
   location         : "Bangalore,India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tanya+chowdhury"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=tanya+chowdhury"
   googlescholar    : "https://scholar.google.co.in/citations?user=mVjEyKoAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "chowdhury_tanya"
   vine             :
   weibo            :
   xing             :
