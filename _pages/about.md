@@ -50,7 +50,7 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
 I am a First year MS/Ph.D. student at CICS,UMass Amherst interested in developing post-hoc interpretability frameworks for various machine learning problems, in particular ranking.  I am lucky to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/).
-Prior to UMass, I was a Software Engineer with [Myntra Designs](http://myntra.com), where I was a part of the Text Search team. I am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Dr Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as a SWE intern at Google working to build a POC for topical clusters of GMail threads based on their content.  
+I am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as a SWE intern at Google working to build a POC for topical clusters of GMail threads based on their content.  
 
  A very long time ago, I performed an Arangetram in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). 
 
