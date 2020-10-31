@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Corpora Evaluation and System Bias Detection in Multi-document Summarization \
-*Alvin Dey(\*), Tanya Chowdhury(\*), Yash Kumar Atri(\*), Tanmoy Chakraborty*\
+*Alvin Dey\*, Tanya Chowdhury\*, Yash Kumar Atri\*, Tanmoy Chakraborty*\
 Accepted in <span style="color:red">Findings of EMNLP, 2020</span>
 
 Neural Abstractive Summarization with Structural Attention\
