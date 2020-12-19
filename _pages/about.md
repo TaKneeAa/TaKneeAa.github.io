@@ -58,5 +58,5 @@ I am a First year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umas
 
  Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). 
 
-I am very passionate about developing ML and IR algorithms to enhance drug discovery and genomic understanding. I strongly believe that the path to developing robust systems for the same, is through corpus and model-introspective interpretability.
+I am very passionate about developing ML and IR algorithms to enhance drug discovery, precision medicine and genomic understanding. I believe the path to developing robust systems for the same, is through corpus and model-introspective interpretability.
 
