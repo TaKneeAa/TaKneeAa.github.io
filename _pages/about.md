@@ -54,7 +54,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a First year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umass.edu/). I am interested in developing post-hoc interpretability frameworks for various machine learning tasks, in particular Ranking.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I also am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as an SWE intern at Google India.
+I am a Second year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umass.edu/). I am interested in developing post-hoc interpretability frameworks for various machine learning tasks, in particular Ranking.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I also am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as an SWE intern at Google India.
 
  Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). 
 
