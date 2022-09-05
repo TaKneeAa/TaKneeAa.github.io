@@ -54,9 +54,9 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a Second year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umass.edu/). I am interested in developing post-hoc interpretability frameworks for various machine learning tasks, in particular Ranking.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I also am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'17 as an SWE intern at Google India.
+I am a Third year MS/Ph.D. student at [CICS,UMass Amherst](https://www.cics.umass.edu/). I dabble with problem in Interpretability and Retrieval, sometimes with applications in Bioinformatics.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I also am an active member of [LCS2 IIIT-Delhi](http://lcs2.iiitd.edu.in/) where I work with [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'22 as an AI intern in [Genentech](https://www.gene.com/) and Summer'17 as a Software intern at Google India.
 
- Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). 
+ Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). These days, I spend most of my leisure time on my sewing machine. 
 
-I am very passionate about developing ML and IR algorithms to enhance drug discovery, precision medicine and genomic understanding. I believe the path to developing robust systems for the same, is through corpus and model-introspective interpretability.
+I am passionate about using Artificial Intelligence to enhance drug discovery, precision medicine and genomic understanding. My current focus is on developing Explainable AI methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
