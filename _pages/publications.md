@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Rank-LIME: Local Model-Agnostic Feature Attribution for Learning to Rank \
+*Tanya Chowdhury, Razieh Rahimi, James Allan*\
+In <span style="color:red">International Conference on the Theory of Information Retrieval (ICTIR), 2022</span>
+
 Equi-explanation Maps: Concise and Informative Global Summary Explanations \
 *Tanya Chowdhury, Razieh Rahimi, James Allan*\
 In <span style="color:red">FAccT, 2022</span>
