@@ -7,11 +7,11 @@ author_profile: true
 
 Rank-LIME: Local Model-Agnostic Feature Attribution for Learning to Rank \
 *Tanya Chowdhury, Razieh Rahimi, James Allan*\
-In <span style="color:red">International Conference on the Theory of Information Retrieval (ICTIR), 2022</span>
+In <span style="color:red">International Conference on the Theory of Information Retrieval (ICTIR), 2023</span>
 
 Equi-explanation Maps: Concise and Informative Global Summary Explanations \
 *Tanya Chowdhury, Razieh Rahimi, James Allan*\
-In <span style="color:red">FAccT, 2022</span>
+In <span style="color:red">ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT), 2022</span>
 
 Corpora Evaluation and System Bias Detection in Multi-document Summarization \
 *Alvin Dey\*, Tanya Chowdhury\*, Yash Kumar Atri\*, Tanmoy Chakraborty*\
