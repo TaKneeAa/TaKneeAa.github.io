@@ -5,42 +5,64 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-Reviewed Publications
+## 🏆 Peer-Reviewed Publications
 
-### 2025
-- **RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Yair Zick, James Allan*  
-  *International Conference on Learning Representations (**ICLR**) 2025*  
+<div class="publications">
+  
+  <h3>2025</h3>
+  <ul>
+    <li><strong>RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Yair Zick, James Allan</span><br>
+      <em>International Conference on Learning Representations (<b>ICLR</b>) 2025</em>
+    </li>
+  </ul>
 
-### 2023
-- **Rank-LIME: Local Model-Agnostic Feature Attribution for Learning to Rank**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Razieh Rahimi, James Allan*  
-  *International Conference on the Theory of Information Retrieval (**ICTIR**) 2023*  
+  <h3>2023</h3>
+  <ul>
+    <li><strong>Rank-LIME: Local Model-Agnostic Feature Attribution for Learning to Rank</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Razieh Rahimi, James Allan</span><br>
+      <em>International Conference on the Theory of Information Retrieval (<b>ICTIR</b>) 2023</em>
+    </li>
+  </ul>
 
-### 2022
-- **Equi-explanation Maps: Concise and Informative Global Summary Explanations**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Razieh Rahimi, James Allan*  
-  *ACM Conference on Fairness, Accountability, and Transparency (**ACM FAccT**) 2022*  
+  <h3>2022</h3>
+  <ul>
+    <li><strong>Equi-explanation Maps: Concise and Informative Global Summary Explanations</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Razieh Rahimi, James Allan</span><br>
+      <em>ACM Conference on Fairness, Accountability, and Transparency (<b>ACM FAccT</b>) 2022</em>
+    </li>
+  </ul>
 
-### 2020
-- **Corpora Evaluation and System Bias Detection in Multi-document Summarization**  
-  *Alvin Dey\*,<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>\*, Yash Kumar Atri\*, Tanmoy Chakraborty*  
-  *Findings of **EMNLP** 2020*  
+  <h3>2020</h3>
+  <ul>
+    <li><strong>Corpora Evaluation and System Bias Detection in Multi-document Summarization</strong><br>
+      <span class="author">Alvin Dey*, <span class="highlight-name">Tanya Chowdhury*</span>, Yash Kumar Atri*, Tanmoy Chakraborty</span><br>
+      <em>Findings of <b>EMNLP</b> 2020</em>
+    </li>
+    <li><strong>Neural Abstractive Summarization with Structural Attention</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Sachin Kumar, Tanmoy Chakraborty</span><br>
+      <em>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>) 2020</em>
+    </li>
+  </ul>
 
-- **Neural Abstractive Summarization with Structural Attention**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Sachin Kumar, Tanmoy Chakraborty*  
-  *International Joint Conference on Artificial Intelligence (**IJCAI**) 2020*  
+  <h3>2019</h3>
+  <ul>
+    <li><strong>Automatic Curation of Content Tables for Educational Videos</strong><br>
+      <span class="author">Arpan Mukherjee, Shubhi Tiwari, <span class="highlight-name">Tanya Chowdhury</span>, Tanmoy Chakraborty</span><br>
+      <em>ACM International Conference on Research and Development in Information Retrieval (<b>SIGIR</b>) 2019 (*Demos Track*)</em>
+    </li>
+    <li><strong>CQASUMM: Building References for Community Question Answering Summarization Corpora</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Tanmoy Chakraborty</span><br>
+      <em>ACM India Joint International Conference on Data Science & Management of Data (<b>CoDS-COMAD</b>) 2019</em>
+    </li>
+  </ul>
 
-### 2019
-- **Automatic Curation of Content Tables for Educational Videos**  
-  *Arpan Mukherjee, Shubhi Tiwari, <span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Tanmoy Chakraborty*  
-  *ACM International Conference on Research and Development in Information Retrieval (**SIGIR**) 2019 (*Demos Track*)*  
+  <h3>2018</h3>
+  <ul>
+    <li><strong>VIZ-Wiki: Generating Visual Summaries to Factoid Threads in Community Question Answering Services</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Aashay Mittal, Tanmoy Chakraborty</span><br>
+      <em>The Web Conference (<b>WWW</b>) 2018 (*Demos Track*)</em>
+    </li>
+  </ul>
 
-- **CQASUMM: Building References for Community Question Answering Summarization Corpora**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Tanmoy Chakraborty*  
-  *ACM India Joint International Conference on Data Science & Management of Data (**CoDS-COMAD**) 2019*  
-
-### 2018
-- **VIZ-Wiki: Generating Visual Summaries to Factoid Threads in Community Question Answering Services**  
-  *<span style="color:#001F3F; font-weight:bold;">Tanya Chowdhury</span>, Aashay Mittal, Tanmoy Chakraborty*  
-  *The Web Conference (**WWW**) 2018 (*Demos Track*)*  
+</div>

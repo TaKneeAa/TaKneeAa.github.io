@@ -58,9 +58,15 @@ I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.ed
 
 I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
-### Recent News
-- **January 2025**:  RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank, is now accepted to ICLR 2025.  
-- **January 2025**:  I received the Anuradha and Hanuma Kodavalla Graduate Scholarship in Computer Science.  
-- **December 2024**: Defended my Ph.D. thesis proposal! Excited for the final stretch of my doctoral journey.  
-- **July 2024**: I received the Manning College Thesis Fellowship for Fall'24.  
+## 📢 Recent News
+
+<ul class="news-list">
+  <li><span class="news-date"> January 2025:</span> <b>RankSHAP</b>: Shapley Value Based Feature Attributions for Learning to Rank is now accepted to <b>ICLR 2025</b>. 🎉</li>
+  
+  <li><span class="news-date"> January 2025:</span> Honored to receive the <b>Anuradha and Hanuma Kodavalla Graduate Scholarship</b> in Computer Science. </li>
+  
+  <li><span class="news-date"> December 2024:</span> Successfully defended my <b>Ph.D. thesis proposal</b>! Excited for the final stretch of my doctoral journey. </li>
+  
+  <li><span class="news-date"> July 2024:</span> Awarded the <b>Manning College Thesis Fellowship</b> for Fall 2024. Grateful for the support! </li>
+</ul>
 
