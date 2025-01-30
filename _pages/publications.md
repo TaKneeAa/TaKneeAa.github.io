@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer Reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## 🏆 Peer-Reviewed Publications
 
 <div class="publications">
   

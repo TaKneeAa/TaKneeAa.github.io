@@ -61,7 +61,7 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
-  <li><span class="news-date"> January 2025:</span> <b>RankSHAP</b>: Shapley Value Based Feature Attributions for Learning to Rank is now accepted to <b>ICLR 2025</b>. 🎉</li>
+  <li><span class="news-date"> January 2025:</span> <b>RankSHAP</b>: is now accepted to <b>ICLR 2025</b>. 🎉</li>
   
   <li><span class="news-date"> January 2025:</span> Honored to receive the <b>Anuradha and Hanuma Kodavalla Graduate Scholarship</b> in Computer Science. </li>
   
