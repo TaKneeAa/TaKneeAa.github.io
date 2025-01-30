@@ -35,7 +35,7 @@ author_profile: true
   <ul>
     <li><strong>Corpora Evaluation and System Bias Detection in Multi-document Summarization</strong><br>
       <span class="author">Alvin Dey*, <span class="highlight-name">Tanya Chowdhury*</span>, Yash Kumar Atri*, Tanmoy Chakraborty</span><br>
-      <em>Findings of <b>EMNLP</b> 2020</em>
+      <em>Findings of Empirical Methods in Natural Language Processings (<b>EMNLP</b>) 2020</em>
     </li>
     <li><strong>Neural Abstractive Summarization with Structural Attention</strong><br>
       <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Sachin Kumar, Tanmoy Chakraborty</span><br>
