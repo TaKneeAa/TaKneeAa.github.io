@@ -54,9 +54,13 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a Fifth year MS/Ph.D. candidate at [CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'22 as an AI intern in [Genentech](https://www.gene.com/) and Summer'17 as a Software intern at Google India.
+I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I graduated with Honours in Computer Science from [IIIT-Delhi](http://iiitd.ac.in/) in May 2018. I spent Summer'22 as an AI intern in [Genentech](https://www.gene.com/) and Summer'17 as a Software intern at Google India.
 
-I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Explainable AI methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
+I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
- Many moons ago, I performed an [Arangetram](https://en.wikipedia.org/wiki/Arangetram) in [Bharatnatyam](https://en.wikipedia.org/wiki/Bharatanatyam) and cleared Madhyamik in [Hindustani Sangeet](https://en.wikipedia.org/wiki/Hindustani_classical_music). These days, I spend most of my leisure time on my sewing machine. 
+### Recent News
+- **January 2025**:  RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank, is now accepted to ICLR 2025.  
+- **January 2025**:  I received the Anuradha and Hanuma Kodavalla Graduate Scholarship in Computer Science.  
+- **December 2024**: Defended my Ph.D. thesis proposal! Excited for the final stretch of my doctoral journey.  
+- **July 2024**: I received the Manning College Thesis Fellowship for Fall'24.  
 
