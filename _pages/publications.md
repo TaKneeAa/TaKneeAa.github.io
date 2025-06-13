@@ -9,6 +9,14 @@ author_profile: true
   
   <h3>2025</h3>
   <ul>
+  <li><strong>Probing Ranking LLMs: Mechanistic Interpretability in Information Retrieval</strong><br>
+      <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Atharva Nijasure, James Allan</span><br>
+      <em>International Conference on the Theory of Information Retrieval (<b>ICTIR</b>) 2025</em>
+    </li>
+    <li><strong>How Relevance Emerges: Interpreting LoRA Fine-Tuning in Reranking LLMs</strong><br>
+      <span class="author">Atharva Nijasure, <span class="highlight-name">Tanya Chowdhury</span>, James Allan</span><br>
+      <em>Workshop on Explainable Information Retrieval (<b>WExIR@SIGIR</b>) 2025</em>
+    </li>
     <li><strong>RankSHAP: Shapley Value Based Feature Attributions for Learning to Rank</strong><br>
       <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Yair Zick, James Allan</span><br>
       <em>International Conference on Learning Representations (<b>ICLR</b>) 2025</em>

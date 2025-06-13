@@ -61,12 +61,16 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
+  <li><span class="news-date"> June 2025:</span> One paper accepted at <b>ICTIR 2025</b> and another paper accepted at <b>WExIR @ SIGIR 2025</b>.</li>
+  
+  <li><span class="news-date"> May 2025:</span> Started my summer internship with the <b>Data Science team at Bristol Myers Squibb</b>.</li>
+  
   <li><span class="news-date"> January 2025:</span> <b>RankSHAP</b> is now accepted to <b>ICLR 2025</b>. 🎉</li>
   
-  <li><span class="news-date"> January 2025:</span> Honored to receive the <b>Anuradha and Hanuma Kodavalla Graduate Scholarship</b> in Computer Science. </li>
+  <li><span class="news-date"> January 2025:</span> Honored to receive the <b>Anuradha and Hanuma Kodavalla Graduate Scholarship</b> in Computer Science.</li>
   
-  <li><span class="news-date"> December 2024:</span> Successfully defended my <b>Ph.D. thesis proposal</b>! Excited for the final stretch of my doctoral journey. </li>
+  <li><span class="news-date"> December 2024:</span> Successfully defended my <b>Ph.D. thesis proposal</b>! Excited for the final stretch of my doctoral journey.</li>
   
-  <li><span class="news-date"> July 2024:</span> Awarded the <b>Manning College Thesis Fellowship</b> for Fall 2024. Grateful for the support! </li>
+  <li><span class="news-date"> July 2024:</span> Awarded the <b>Manning College Thesis Fellowship</b> for Fall 2024. Grateful for the support!</li>
 </ul>
 
