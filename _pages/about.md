@@ -61,9 +61,9 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
-  <li><span class="news-date"> June 2025:</span> One paper accepted at <b>ICTIR 2025</b> and another paper accepted at <b>WExIR @ SIGIR 2025</b>.</li>
+  <li><span class="news-date"> June 2025:</span> One paper accepted at <b>ICTIR 2025</b>. One paper accepted at <b>WExIR @ SIGIR 2025</b>.</li>
   
-  <li><span class="news-date"> May 2025:</span> Started my summer internship with the <b>Data Science team at Bristol Myers Squibb</b>.</li>
+  <li><span class="news-date"> May 2025:</span> Started summer internship with <b>Data Science @ Bristol Myers Squibb</b>.</li>
   
   <li><span class="news-date"> January 2025:</span> <b>RankSHAP</b> is now accepted to <b>ICLR 2025</b>. 🎉</li>
   
