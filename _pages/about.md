@@ -54,13 +54,15 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I spent Summer'22 as an AI intern in [Genentech](https://www.gene.com/) and Summer'17 as a Software intern at Google India.
+I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am fortunate to be advised by [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
 
 I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
 ## 📢 Recent News
 
 <ul class="news-list">
+  <li><span class="news-date"> August 2025:</span> Invited talk at Microsoft Research India IR Reading Group.</li>
+
   <li><span class="news-date"> June 2025:</span> One paper accepted at <b>ICTIR 2025</b>. One paper accepted at <b>WExIR @ SIGIR 2025</b>.</li>
   
   <li><span class="news-date"> May 2025:</span> Started summer internship with <b>Data Science @ Bristol Myers Squibb</b>.</li>
