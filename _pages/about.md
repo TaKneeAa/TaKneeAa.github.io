@@ -54,7 +54,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
+I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am very fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
 
 I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
