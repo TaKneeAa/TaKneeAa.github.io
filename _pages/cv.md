@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [here](resume.pdf)
+Download [here](resume.pdf).
 <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
