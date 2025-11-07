@@ -61,7 +61,9 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
-  <li><span class="news-date"> August 2025:</span> Invited talk at Microsoft Research India IR Reading Group.</li>
+  <li><span class="news-date"> October 2025:</span> Talk at IIT Delhi LCS2 Reading Group.</li>
+
+  <li><span class="news-date"> August 2025:</span>  Talk at Microsoft Research India IR Reading Group.</li>
 
   <li><span class="news-date"> June 2025:</span> One paper accepted at <b>ICTIR 2025</b>. One paper accepted at <b>WExIR @ SIGIR 2025</b>.</li>
   
