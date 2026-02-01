@@ -12,7 +12,6 @@ author_profile: true
       <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Atharva Nijasure, Yair Zick, James Allan</span><br>
       <em>International Conference on Learning Representations (<b>ICLR</b>) 2026</em>
     </li>
-  </h3>
 
   <h3>2025</h3>
   <ul>
