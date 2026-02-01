@@ -58,6 +58,18 @@ I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.ed
 
 I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
+<div style="
+  border: 2px solid #c1121f;
+  background-color: #fff1f2;
+  color: #c1121f;
+  padding: 12px 16px;
+  margin: 20px 0;
+  font-weight: 600;
+  border-radius: 6px;
+">
+  📌 <b>I am currently on the Postdoctoral and Industry Research job market.</b>
+</div>
+
 ## 📢 Recent News
 
 <ul class="news-list">
