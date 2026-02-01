@@ -61,6 +61,8 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
+  <li><span class="news-date"> January 2026:</span> <b>Hedonic Neurons</b> is now accepted to <b>ICLR 2026</b>. 🎉</li>
+
   <li><span class="news-date"> October 2025:</span> Talk at IIT Delhi LCS2 Reading Group.</li>
 
   <li><span class="news-date"> August 2025:</span>  Talk at Microsoft Research India IR Reading Group.</li>
