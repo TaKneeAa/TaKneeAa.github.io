@@ -11,7 +11,8 @@ author_profile: true
   <li><strong>Hedonic Neurons: A Mechanistic Mapping of Latent Coalitions in Transformer MLPs.</strong><br>
       <span class="author"><span class="highlight-name">Tanya Chowdhury</span>, Atharva Nijasure, Yair Zick, James Allan</span><br>
       <em>International Conference on Learning Representations (<b>ICLR</b>) 2026</em>
-    </li>
+  </li>
+  </ul>  
 
   <h3>2025</h3>
   <ul>
