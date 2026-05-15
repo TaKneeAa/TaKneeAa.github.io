@@ -54,25 +54,15 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am a Ph.D. candidate at [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabble with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I am very fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
+I very recently completed my Ph.D. from [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabbled with problems in Mechanistic and Functional Interpretability, with applications in Information Retrieval and Bioinformatics.  I was very fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
 
 I am passionate about using Artificial Intelligence to enhance genomic understanding. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
-<div style="
-  border: 2px solid #c1121f;
-  background-color: #fff1f2;
-  color: #c1121f;
-  padding: 12px 16px;
-  margin: 20px 0;
-  font-weight: 600;
-  border-radius: 6px;
-">
-  📌 <b>I am currently on the Postdoctoral and Industry Research job market.</b>
-</div>
 
 ## 📢 Recent News
 
 <ul class="news-list">
+  <li><span class="news-date"> April 2026:</span> Successfully defended my Ph.D. dissertation. End of a beautiful journey. </li>
   <li><span class="news-date"> January 2026:</span> <b>Hedonic Neurons</b> is now accepted to <b>ICLR 2026</b>. 🎉</li>
 
   <li><span class="news-date"> October 2025:</span> Talk at IIT Delhi LCS2 Reading Group.</li>
