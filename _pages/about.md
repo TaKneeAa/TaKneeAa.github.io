@@ -62,7 +62,7 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
 ## 📢 Recent News
 
 <ul class="news-list">
-  <li><span class="news-date"> Apr'26:</span> Successfully <b>defended</b> my Ph.D. dissertation.🎉🎉🎉🎉🎉 </li>
+  <li><span class="news-date"> Apr'26:</span> Successfully <b>defended</b> my Ph.D. dissertation. 🎉🎉 </li>
   <li><span class="news-date"> Jan'26:</span> <b>Hedonic Neurons</b> is now accepted to <b>ICLR 2026</b>. 🎉</li>
 
   <li><span class="news-date"> Oct'25:</span> Talk at IIT Delhi LCS2 Reading Group.</li>
