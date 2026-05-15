@@ -77,8 +77,8 @@ I am passionate about using Artificial Intelligence to enhance genomic understan
   
   <li><span class="news-date"> Jan'25:</span> Honored to receive the <b>Anuradha and Hanuma Kodavalla Graduate Scholarship</b> in Computer Science.</li>
   
-  <li><span class="news-date"> Dec'24:</span> Successfully defended my <b>Ph.D. thesis proposal</b>! Excited for the final stretch of my doctoral journey.</li>
+  <li><span class="news-date"> Dec'24:</span> Successfully defended my <b>Ph.D. thesis proposal</b>!</li>
   
-  <li><span class="news-date"> Jul'24:</span> Awarded the <b>Manning College Thesis Fellowship</b> for Fall 2024. Grateful for the support!</li>
+  <li><span class="news-date"> Jul'24:</span> Awarded the <b>Manning College Thesis Fellowship</b> for Fall 2024.</li>
 </ul>
 
