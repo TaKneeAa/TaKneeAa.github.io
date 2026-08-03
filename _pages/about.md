@@ -54,7 +54,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
  <!-- background: #ffd2b4 -->
 
 
-I am postdoctoral researcher (officially hired as a remote ML developer) at [Kundaje Lab](https://kundajelab.github.io/), Stanford University. Before that I completed my Ph.D. from [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabbled with problems in Mechanistic and Functional Interpretability and was fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
+I am postdoctoral researcher at [Kundaje Lab](https://kundajelab.github.io/), Stanford University. Before that I completed my Ph.D. from [Manning CICS,UMass Amherst](https://www.cics.umass.edu/). In my PhD work, I dabbled with problems in Mechanistic and Functional Interpretability and was fortunate to be advised by Distinguished Professor [James Allan](http://ciir.cs.umass.edu/~allan/). I earned an M.S. in CS from UMass Amherst in Fall'23 and a B.Tech in CS from IIIT-Delhi in Summer'18. I have previously interned at [Bristol Myers Squibb](https://www.bms.com/), [Genentech](https://www.gene.com/) and Google India.
 
 I am passionate about using Artificial Intelligence to enhance our fundamental understanding of biology. My current focus is on developing Mechanistic Interpretability methods that alleviate scientific understanding, by uncovering unknown mechanisms and properties of the underlying data generating processes. 
 
